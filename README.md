@@ -9,7 +9,7 @@
 [![next-dot-js](https://img.shields.io/badge/nextjs-ssr-000000.svg?logo=vercel)](https://nextjs.org/)
 [![TypeScript-web](https://img.shields.io/badge/TypeScript-web-007ACC.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![React-lib](https://img.shields.io/badge/React-hooks-61DAFB.svg?logo=react)](https://reactjs.org/)
-[![Storybook-design-system](https://img.shields.io/badge/storybook-designsystem-ff69b4)](https://storybook.js.org/)
+[![Storybook](https://img.shields.io/badge/storybook-ui-ff4785.svg?logo=storybook)](https://storybook.js.org/)
 [![Javascript-language](https://img.shields.io/badge/Javascript-language-F7DF1E.svg?logo=javascript)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 [![styled-components-style](https://img.shields.io/badge/%F0%9F%92%85%20styled--components-CssInJs-orange.svg)](https://github.com/styled-components/styled-components)
 [![Codesandobx-IDE](https://img.shields.io/badge/Codesandbox-IDE-000000.svg?logo=codesandbox)](https://codesandbox.io/)
